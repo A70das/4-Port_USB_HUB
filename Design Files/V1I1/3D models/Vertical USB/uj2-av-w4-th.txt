@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-15052018-124260";"";
+"REFERENCE";"UJ2-AV-W4-TH";"";
+"TraceParts.PartTitle";"UJ2-AV-TH Series - Type A, USB 2.0, 1 A, Vertical, Through Hole, USB Receptacle";"";
+"TraceParts.InstanceId";"10-15052018-124260E8121MLBTLNBEC4JGFJX8AVOJ";"";
+"DESIGN";"3 µin Plating Thickness, White Insulator, USB Receptacle";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"CUI";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"CUI:10-15052018-124260";"";

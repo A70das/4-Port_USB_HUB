@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-17072017-090190";"";
+"REFERENCE";"C0805C180J5GACTU";"";
+"TraceParts.PartTitle";"0805 C0G ceramic capacitor, 50V 18pF";"";
+"TraceParts.InstanceId";"10-17072017-090190B459Q8RAW3QWQBEXZRIUZEOEO";"";
+"DESIGN";"0805 C0G ceramic capacitor, 50V 18pF";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"KEMET";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"KEMET:10-17072017-090190";"";

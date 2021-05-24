@@ -1,0 +1,15 @@
+Component   : USB_Connector
+PCB Library : 4-Port_USB_HUB_PCBLib.PcbLib
+Date        : 5/24/2021
+Time        : 9:46:59 PM
+
+
+
+Dimension : 17.043 x 6.35 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Multi Layer                 6          0        0       0        0
+ Top Overlay                 0          4        0       1        0
+--------------------------------------------------------------------
+ Total                       6          4        0       1        0

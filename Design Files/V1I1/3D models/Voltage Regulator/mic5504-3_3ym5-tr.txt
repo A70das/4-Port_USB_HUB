@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-20012020-063487";"";
+"REFERENCE";"MIC5504-3.3YM5-TR";"";
+"TraceParts.PartTitle";"Integrated Circuit SOT23 (5-Pin) - MIC5504-3.3YM5-TR";"";
+"TraceParts.InstanceId";"33-20012020-0634873MIZUC3BTPM6VFS009ZBR9IDL";"";
+"DESIGN";"Integrated Circuit SOT23 (5-Pin) - MIC5504-3.3YM5-TR";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Microchip Technology Inc.";"";
+"TraceParts.PartVersion";"1.1.8";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"MICROCHIP_TECHNOLOGY:33-20012020-063487";"";

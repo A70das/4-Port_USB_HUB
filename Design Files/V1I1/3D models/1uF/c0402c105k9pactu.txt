@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-17072017-090079";"";
+"REFERENCE";"C0402C105K9PACTU";"";
+"TraceParts.PartTitle";"0402 X5R ceramic capacitor, 6.3V 1uF";"";
+"TraceParts.InstanceId";"10-17072017-0900792VRQUDYYYQURLR94A5PT98Z9J";"";
+"DESIGN";"0402 X5R ceramic capacitor, 6.3V 1uF";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"KEMET";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"KEMET:10-17072017-090079";"";
