@@ -34,7 +34,7 @@
 | 3   | C4, C5, C6        | GRM155R60J475ME47D      | 0402   | 3   |
 | 4   | D1, D2, D3, D4, D5, D6, D7, D8, D9, D10        | ESD9B3.3ST5G      | 0402   | 10   |
 | 5   | J2, J3, J4, J5        | KUSBVX-AS1N-B30      | this   | 4   |
-| 6   | J?        | USB-A-S-S-B-SM2      | this   | 1   |
+| 6   | J1        | USB-A-S-S-B-SM2      | this   | 1   |
 | 7   | R1, R3        | RC0402JR-0756KL      | this   | 2   |
 | 8   | R2        | RC0402FR-071ML      | 0402   | 1   |
 | 9   | R4        | RC0402JR-0712KL      | 0402   | 1   |
