@@ -1,0 +1,42 @@
+Altium Designer Pick and Place Locations
+C:\Users\Amit\Documents\AMIT\Github\4-Port_USB_HUB\Design Files\V1I1\Project Outputs for 4-Port_USB_HUB_Project\Pick Place\Pick Place for 4-Port_USB_HUB_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       18/07/21
+Time:       20:45
+Revision:   5b0fc1c082d90f5559c249bc675ae79229f66ffd
+Variant:    No variations
+Units used: mil
+
+Designator Layer    Comment           Footprint         Center-X(mil) Center-Y(mil) Rotation ComponentKind 
+J?         TopLayer "SMD USB-A"       SMD_USB-A         8168.307      2976.378      90       Standard      
+X1         TopLayer 24MHz             Crystal           7566.929      3251.969      270      Standard      
+U2         TopLayer MIC5504-3.3YM5-TR Voltage_Regulator 7609.291      2625.827      180      Standard      
+U1         TopLayer USB2514B-I/M2     IC_microchip      7564.488      2925.827      0        Standard      
+R4         TopLayer 12K               1M_Res            7283.681      3173.228      270      Standard      
+R3         TopLayer 56K               56K               7885.827      2874.016      0        Standard      
+R2         TopLayer 1M                1M_Res            7566.929      3331.693      270      Standard      
+R1         TopLayer 56K               56K               7884.567      2976.378      0        Standard      
+J5         TopLayer USB-A             USB_Connector     7456.693      2208.662      360      Standard      
+J4         TopLayer USB-A             USB_Connector     6862.205      2539.370      270      Standard      
+J3         TopLayer USB-A             USB_Connector     6858.268      3291.339      270      Standard      
+J2         TopLayer USB-A             USB_Connector     7456.693      3649.606      180      Standard      
+D10        TopLayer TVS               ESD_Diode         7452.756      2649.606      90       Standard      
+D9         TopLayer TVS               ESD_Diode         7381.890      2649.606      90       Standard      
+D8         TopLayer TVS               ESD_Diode         7287.402      2724.410      360      Standard      
+D7         TopLayer TVS               ESD_Diode         7287.402      2791.339      360      Standard      
+D6         TopLayer TVS               ESD_Diode         7287.402      2881.890      360      Standard      
+D5         TopLayer TVS               ESD_Diode         7287.402      2948.819      360      Standard      
+D4         TopLayer TVS               ESD_Diode         7287.402      3051.181      360      Standard      
+D3         TopLayer TVS               ESD_Diode         7287.402      3118.110      360      Standard      
+D2         TopLayer TVS               ESD_Diode         7885.827      3106.299      180      Standard      
+D1         TopLayer TVS               ESD_Diode         7885.827      3035.433      180      Standard      
+C7         TopLayer 1uF,6.3V          1uF_CAP           7890.709      2744.252      180      Standard      
+C6         TopLayer 4.7uF,6.3V        4.7uF_CAP         7890.709      2803.307      180      Standard      
+C5         TopLayer 4.7uF,6.3V        4.7uF_CAP         7826.772      2614.173      90       Standard      
+C4         TopLayer 4.7uF,6.3V        4.7uF_CAP         7889.646      2615.551      90       Standard      
+C3         TopLayer 1uF,6.3V          1uF_CAP           7569.921      2724.252      360      Standard      
+C2         TopLayer 18pF,50V          18pF              7414.370      3251.969      180      Standard      
+C1         TopLayer 18pF,50V          18pF              7717.520      3251.969      360      Standard      
